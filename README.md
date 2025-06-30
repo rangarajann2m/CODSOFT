@@ -1,4 +1,4 @@
-#CODSOFT
+CODSOFT
 
 figma UI/UX TASK LIST
 
